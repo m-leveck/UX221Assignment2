@@ -1,0 +1,12 @@
+/*
+Theme Name:     blue
+Description:    a blue theme
+Author:         mleveck
+Template:       raft
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+
+body var{
+    color:#5f6a8d 
+}
