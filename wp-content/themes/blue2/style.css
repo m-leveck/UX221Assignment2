@@ -1,12 +1,11 @@
 /*
-Theme Name:     blue
-Description:    a blue theme
+Theme Name:     blue2
+Description:    blue two
 Author:         mleveck
-Template:       raft
+Template:       hello-elementor
 
 (optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
 */
-
-#content body{
-    color:#5f6a8d 
+#content a,#site-header a{
+    color: #4e62c1
 }
